@@ -1,0 +1,8 @@
+<map id="ScheduleManager" name="ScheduleManager">
+<area shape="rect" id="node1" title=" " alt="" coords="194,380,333,407"/>
+<area shape="rect" id="node2" href="$class_student_b_s_t.html" title=" " alt="" coords="215,291,312,317"/>
+<area shape="rect" id="node3" href="$class_b_s_t.html" title=" " alt="" coords="200,201,327,228"/>
+<area shape="rect" id="node4" href="$class_binary_node.html" title=" " alt="" coords="105,112,283,139"/>
+<area shape="rect" id="node5" href="$class_binary_node.html" title=" " alt="" coords="5,7,212,33"/>
+<area shape="rect" id="node6" href="$class_student.html" title=" " alt="" coords="295,7,367,33"/>
+</map>

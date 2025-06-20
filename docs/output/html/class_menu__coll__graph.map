@@ -1,0 +1,12 @@
+<map id="Menu" name="Menu">
+<area shape="rect" id="node1" title=" " alt="" coords="493,469,551,496"/>
+<area shape="rect" id="node2" href="$class_schedule_manager.html" title=" " alt="" coords="194,380,333,407"/>
+<area shape="rect" id="node3" href="$class_student_b_s_t.html" title=" " alt="" coords="215,291,312,317"/>
+<area shape="rect" id="node4" href="$class_b_s_t.html" title=" " alt="" coords="200,201,327,228"/>
+<area shape="rect" id="node5" href="$class_binary_node.html" title=" " alt="" coords="105,112,283,139"/>
+<area shape="rect" id="node6" href="$class_binary_node.html" title=" " alt="" coords="5,7,212,33"/>
+<area shape="rect" id="node7" href="$class_student.html" title=" " alt="" coords="295,7,367,33"/>
+<area shape="rect" id="node8" href="$class_classes_file_manager.html" title=" " alt="" coords="357,380,509,407"/>
+<area shape="rect" id="node9" href="$class_students_file_manager.html" title=" " alt="" coords="533,380,692,407"/>
+<area shape="rect" id="node10" href="$class_requests_file_manager.html" title=" " alt="" coords="717,380,879,407"/>
+</map>
