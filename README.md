@@ -114,6 +114,3 @@ This project does not include an explicit license. Consider adding a `LICENSE` f
 - The application uses some inline includes (e.g., `main.cpp` includes `application.cpp`) to keep the project simple for the assignment.
 - Paths are relative: the program expects the `schedule/` directory to be at `../schedule/` relative to the executable.
 
----
-
-If you want me to further improve `README.md` (add badges, CI instructions, examples of common flows, or to add a license), tell me which sections you'd like to expand. 💡
